@@ -1,0 +1,8 @@
+.background{
+    background-color: #0000004b;
+    background-image:url('src/assets/ens.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 100vh;
+}
